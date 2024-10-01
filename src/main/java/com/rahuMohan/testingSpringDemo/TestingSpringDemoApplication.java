@@ -13,6 +13,7 @@ public class TestingSpringDemoApplication {
 		String size = scanner.nextLine();
 		if(size.equals("long")){
 			System.out.println("long table");
+			System.out.println("Hello");
 		}
 		else{
 			System.out.println("short table");
